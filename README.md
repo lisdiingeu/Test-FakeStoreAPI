@@ -10,5 +10,5 @@ https://k6.io/docs/get-started/installation/
 Clone repository
 
 **Step 3:**
-k6 run <nama-file-test>.js
+k6 run nama-file-test.js
 
